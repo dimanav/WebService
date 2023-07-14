@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dhwEPR9/YEL7JAAG4FmwX0P+v4a6BosbR3l3L+vtJjA=",
+  "Source": "TaskWebService",
+  "BasePath": "_content/TaskWebService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
